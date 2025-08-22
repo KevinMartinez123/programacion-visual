@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\km488\\source\\repos\\trabajo C# semana 1 ejercicio 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D40F67-A678-4DBF-8C48-578308135AF6}|trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1.csproj|c:\\users\\km488\\source\\repos\\trabajo c# semana 1 ejercicio 1\\trabajo c# semana 1 ejercicio 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2D40F67-A678-4DBF-8C48-578308135AF6}|trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1.csproj|solutionrelative:trabajo c# semana 1 ejercicio 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D40F67-A678-4DBF-8C48-578308135AF6}|trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1.csproj|C:\\Users\\km488\\source\\repos\\trabajo C# semana 1 ejercicio 1\\trabajo c# semana 1 ejercicio 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D40F67-A678-4DBF-8C48-578308135AF6}|trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1.csproj|solutionrelative:trabajo c# semana 1 ejercicio 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\km488\\source\\repos\\trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1\\Form1.cs",
+              "RelativeDocumentMoniker": "trabajo C# semana 1 ejercicio 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\km488\\source\\repos\\trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1\\Form1.cs",
+              "RelativeToolTip": "trabajo C# semana 1 ejercicio 1\\Form1.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAOQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:54:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\km488\\source\\repos\\trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1\\Form1.cs",
+              "RelativeDocumentMoniker": "trabajo C# semana 1 ejercicio 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\km488\\source\\repos\\trabajo C# semana 1 ejercicio 1\\trabajo C# semana 1 ejercicio 1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "trabajo C# semana 1 ejercicio 1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:33:42.72Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

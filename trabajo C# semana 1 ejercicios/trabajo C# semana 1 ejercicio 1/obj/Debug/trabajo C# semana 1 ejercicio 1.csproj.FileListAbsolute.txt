@@ -1,0 +1,22 @@
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Form1.resources
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Properties.Resources.resources
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.csproj.GenerateResource.cache
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicio 1\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\bin\Debug\trabajo C# semana 1 ejercicio 1.pdb
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe.config
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Form1.resources
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo_C__semana_1_ejercicio_1.Properties.Resources.resources
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.csproj.GenerateResource.cache
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.exe
+C:\Users\km488\source\repos\trabajo C# semana 1 ejercicios\trabajo C# semana 1 ejercicio 1\obj\Debug\trabajo C# semana 1 ejercicio 1.pdb
