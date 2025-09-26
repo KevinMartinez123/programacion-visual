@@ -1,0 +1,42 @@
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Visor_Imagenes.exe.config
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Visor_Imagenes.exe
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Visor_Imagenes.pdb
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.exe
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.pdb
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Kiyomi_Takada.jpg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Light.jpg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\L_lawliet.jpeg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Matsuda.jpg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Mello.jpeg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Missa_Amane.jpeg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Naomi_Misora.jpg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Near.jpeg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Rem.jpg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Riuk.jpg
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.csproj.AssemblyReference.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.exe
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.pdb
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Visor_Imagenes.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Visor_Imagenes.exe
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Visor_Imagenes.pdb
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.Form1.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.Properties.Resources.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.csproj.GenerateResource.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\obj\Debug\Visor_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Cristiano.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Lewandowski.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Maradona.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Mbappe.png
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Messi.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Modric.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\neymar.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Pedri.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Pele.jpg
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\Visor_Imagenes\Visor_Imagenes\bin\Debug\Fotos\Lamine Yamal.jpg
