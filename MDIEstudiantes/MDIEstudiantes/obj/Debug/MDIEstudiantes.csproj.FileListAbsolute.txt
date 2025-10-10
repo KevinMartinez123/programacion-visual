@@ -1,0 +1,28 @@
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
