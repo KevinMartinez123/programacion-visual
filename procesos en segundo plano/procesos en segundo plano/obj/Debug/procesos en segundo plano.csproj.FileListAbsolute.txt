@@ -1,0 +1,22 @@
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\bin\Debug\procesos en segundo plano.exe.config
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\bin\Debug\procesos en segundo plano.exe
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\bin\Debug\procesos en segundo plano.pdb
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.csproj.AssemblyReference.cache
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos_en_segundo_plano.Form1.resources
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos_en_segundo_plano.Properties.Resources.resources
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.csproj.GenerateResource.cache
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.csproj.CoreCompileInputs.cache
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.exe
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.pdb
+C:\Users\km488\source\repos\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\bin\Debug\procesos en segundo plano.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\bin\Debug\procesos en segundo plano.exe
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\bin\Debug\procesos en segundo plano.pdb
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.csproj.AssemblyReference.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.exe.config
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos_en_segundo_plano.Form1.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos_en_segundo_plano.Properties.Resources.resources
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.csproj.GenerateResource.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.csproj.CoreCompileInputs.cache
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.exe
+C:\Users\km488\OneDrive\Escritorio\Programacion visual\procesos en segundo plano\procesos en segundo plano\obj\Debug\procesos en segundo plano.pdb
